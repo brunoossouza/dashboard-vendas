@@ -14,7 +14,7 @@ Dashboard desenvolvido para análise de vendas, com foco em faturamento, produto
 - Excel
 
 ## 📷 Preview
-![Preview do Dashboard](dashboard-vendas.png)
+![Preview do Dashboard](Dashboard vendas .png)
 
 ## 🚀 Autor
 Bruno Souza
